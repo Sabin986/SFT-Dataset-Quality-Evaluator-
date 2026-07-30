@@ -1,0 +1,13 @@
+Quality Check,Issue Count,Maximum Penalty,Penalty Applied
+Duplicate SFT Samples,9980,50,50.0
+Missing Values,0,20,0.0
+Empty Text Values,0,15,0.0
+Duplicate IDs,0,10,0.0
+Very Short Instructions,0,5,0.0
+Very Short Inputs,0,5,0.0
+Very Short Outputs,0,10,0.0
+Very Long Outputs,0,5,0.0
+Empty Domains,0,5,0.0
+Domains With Extra Spaces,0,1,0.0
+Empty Sources,0,5,0.0
+Sources With Extra Spaces,0,1,0.0

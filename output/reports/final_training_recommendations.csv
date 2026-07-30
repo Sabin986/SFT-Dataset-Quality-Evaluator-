@@ -1,0 +1,6 @@
+Recommendation Number,Recommendation
+1,Do not use the dataset directly for model training.
+2,Review duplicate SFT samples before training.
+3,Remove exact duplicate samples.
+4,Increase instruction and output diversity.
+5,Create or collect more unique SFT samples.

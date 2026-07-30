@@ -1,0 +1,8 @@
+Metric,Result
+Total Samples,10000
+Overall Quality Score,50/100
+Quality Status,Poor
+Duplicate SFT Samples,9980
+Duplicate Rate,99.80%
+Training Risk Level,Critical
+Training Readiness,Not Recommended for Training

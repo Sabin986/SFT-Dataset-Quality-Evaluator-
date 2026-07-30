@@ -1,0 +1,10 @@
+Metric,Value
+Total Samples,10000
+Duplicate SFT Samples,9980
+Duplicate Rate,99.8%
+Starting Score,100
+Duplicate Penalty,50
+Other Penalties,0.0
+Total Penalty,50.0
+Final Quality Score,50.0%
+Quality Status,Poor
